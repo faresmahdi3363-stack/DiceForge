@@ -18,3 +18,5 @@ DiceForge is a powerful and flexible dice roller that allows you to roll dice of
 ## screenshot
 <img width="781" height="477" alt="Screenshot 2025-09-14 171110" src="https://github.com/user-attachments/assets/335a57d7-51f2-48b4-aa3b-d9b2dd47c52b" />
 <img width="861" height="399" alt="Screenshot 2025-09-14 171159" src="https://github.com/user-attachments/assets/02a27f5f-2cc7-4215-b451-1784cf03237e" />
+ ## telegram 
+ https://t.me/CodeHub3363
